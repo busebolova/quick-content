@@ -1,1 +1,108 @@
-{}
+{
+  "products": [
+    {
+      "id": "etiket-baski-aplikasyon-1",
+      "category": "Etiketleme Sistemleri",
+      "title": "Termal Transfer Etiket Baskı ve Aplikasyon Sistemi",
+      "description": "SATO termal transfer printer ile entegre otomatik etiket baskı ve yapıştırma sistemi",
+      "image": "/etiketleme-sistem-1.png",
+      "features": [
+        "SATO termal transfer printer ile baskı",
+        "Real-time etiket baskısı",
+        "Pnömatik vakumlu pistonlu aplikatör",
+        "ALTECH etiketleme modülleri"
+      ]
+    },
+    {
+      "id": "etiket-baski-aplikasyon-2",
+      "category": "Etiketleme Sistemleri",
+      "title": "Yüksek Hızlı Etiket Baskı ve Aplikasyon Sistemi",
+      "description": "Hava üflemeli real-time etiket baskı ve aplikasyon sistemi",
+      "image": "/etiketleme-sistem-2.png",
+      "features": [
+        "Japon SATO endüstriyel printer",
+        "Her etikete farklı bilgi baskısı",
+        "Hava üflemeli aplikatör",
+        "İtalyan ALTECH modülleri"
+      ]
+    },
+    {
+      "id": "inkjet-kodlama-sistemi",
+      "category": "Inkjet Kodlama Sistemleri",
+      "title": "Endüstriyel Inkjet Kodlama Sistemi",
+      "description": "Yüksek çözünürlüklü endüstriyel inkjet kodlama ve markalama sistemi",
+      "image": "/inkjet-sistem.png",
+      "features": [
+        "Yüksek çözünürlüklü baskı teknolojisi",
+        "Dokunmatik kontrol paneli",
+        "Çoklu dil ve karakter desteği",
+        "Hızlı ve hassas kodlama"
+      ]
+    },
+    {
+      "id": "lazer-markalama-sistemi",
+      "category": "Lazer Markalama Sistemleri",
+      "title": "Endüstriyel Lazer Markalama Sistemi",
+      "description": "Fiber lazer teknolojisi ile kalıcı ve hassas markalama çözümü",
+      "image": "/lazer-sistem.png",
+      "features": [
+        "Fiber lazer teknolojisi",
+        "Metal ve plastik üzerine markalama",
+        "Yüksek hız ve hassasiyet",
+        "Kalıcı ve silinmez işaretleme"
+      ]
+    },
+    {
+      "id": "palet-sarmal-makinesi",
+      "category": "Paletleme ve Sarma Sistemleri",
+      "title": "Otomatik Palet Sarma Makinesi",
+      "description": "Endüstriyel palet sarma ve yükleme güvenliği için otomatik streç sarma sistemi",
+      "image": "/palet-sarmal-makinesi.png",
+      "features": [
+        "Otomatik döner tablalı sistem",
+        "Ayarlanabilir sarma hızı ve katman sayısı",
+        "Yüksek kapasiteli film rulosu",
+        "Güvenli ve verimli paletleme"
+      ]
+    },
+    {
+      "id": "shrink-ambalaj-makinesi",
+      "category": "Ambalaj Sistemleri",
+      "title": "Otomatik Shrink Ambalaj Makinesi",
+      "description": "Tam otomatik shrink film ambalaj ve paketleme sistemi",
+      "image": "/shrink-ambalaj-makinesi.jpg",
+      "features": [
+        "Tam otomatik film sargılama",
+        "Ayarlanabilir sıcaklık kontrolü",
+        "Yüksek hızlı paketleme kapasitesi",
+        "Enerji tasarruflu ısıtma sistemi"
+      ]
+    },
+    {
+      "id": "wrap-around-etiketleme-sistemi",
+      "category": "Etiketleme Sistemleri",
+      "title": "Wrap Around Etiketleme Sistemi Çözümleri",
+      "description": "Çok fonksiyonlu wrap around etiketleme sistemi ile silindirik ürünlere tam kapsamlı etiketleme",
+      "image": "/wrap-around-etiketleme.png",
+      "features": [
+        "Çoklu aplikatör sistemi",
+        "Silindirik ürün etiketleme",
+        "Yüksek hassasiyetli hizalama",
+        "PLC kontrollü otomasyon"
+      ]
+    },
+    {
+      "id": "konveyor-sistemleri",
+      "category": "Konveyör Sistemleri",
+      "title": "Modüler Konveyör Sistemleri",
+      "description": "Endüstriyel üretim hatları için özelleştirilebilir modüler konveyör çözümleri",
+      "image": "/konveyor-sistemi.png",
+      "features": [
+        "Modüler tasarım ve kolay montaj",
+        "Ağır yük taşıma kapasitesi",
+        "Düşük bakım maliyeti",
+        "Sessiz ve verimli çalışma"
+      ]
+    }
+  ]
+}
