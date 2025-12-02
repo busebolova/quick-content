@@ -1,6 +1,6 @@
 {
   "tr": {
-    "heroTitle": "Endüstriyel Kodlama ve Markalama Çözümlerinde Lider",
+    "heroTitle": "Endüstriyel Kodlama ve Markalama Çözümlerinde Lider 2",
     "heroSubtitle": "15 yılı aşkın tecrübemizle, kodlama sistemlerinden robotik otomasyona kadar geniş ürün yelpazesi ile üretim süreçlerinizi optimize ediyoruz",
     "buttons": {
       "primary": {
@@ -22,7 +22,11 @@
           "title": "Endüstriyel Inkjet Kodlama Sistemi",
           "description": "Yüksek çözünürlüklü endüstriyel inkjet kodlama ve markalama sistemi",
           "image": "/placeholder.svg?height=400&width=600",
-          "features": ["Yüksek çözünürlüklü baskı", "Dokunmatik kontrol paneli", "Çoklu dil desteği"],
+          "features": [
+            "Yüksek çözünürlüklü baskı",
+            "Dokunmatik kontrol paneli",
+            "Çoklu dil desteği"
+          ],
           "colors": "#dbeafe, #93c5fd, #3b82f6",
           "gap": "12",
           "speed": "20"
@@ -32,7 +36,11 @@
           "title": "Endüstriyel Lazer Markalama Sistemi",
           "description": "Fiber lazer teknolojisi ile kalıcı ve hassas markalama çözümü",
           "image": "/placeholder.svg?height=400&width=600",
-          "features": ["Fiber lazer teknolojisi", "Metal ve plastik markalama", "Kalıcı işaretleme"],
+          "features": [
+            "Fiber lazer teknolojisi",
+            "Metal ve plastik markalama",
+            "Kalıcı işaretleme"
+          ],
           "colors": "#fee2e2, #fca5a5, #ef4444",
           "gap": "15",
           "speed": "35"
@@ -42,7 +50,11 @@
           "title": "Wrap Around Etiketleme Sistemi",
           "description": "Çok fonksiyonlu wrap around etiketleme sistemi ile silindirik ürünlere tam kapsamlı etiketleme",
           "image": "/placeholder.svg?height=400&width=600",
-          "features": ["Çoklu aplikatör sistemi", "Yüksek hassasiyetli hizalama", "PLC kontrollü otomasyon"],
+          "features": [
+            "Çoklu aplikatör sistemi",
+            "Yüksek hassasiyetli hizalama",
+            "PLC kontrollü otomasyon"
+          ],
           "colors": "#e0e7ff, #a5b4fc, #6366f1",
           "gap": "13",
           "speed": "26"
