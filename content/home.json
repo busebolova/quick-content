@@ -11,6 +11,133 @@
         "text": "İletişime Geçin",
         "link": "/iletisim"
       }
+    },
+    "solutions": {
+      "badge": "Ürünlerimiz",
+      "title": "Endüstriyel Üretim İçin Kapsamlı Çözümler",
+      "subtitle": "Kodlama sistemlerinden robotik otomasyona, yazılım entegrasyonundan donanım danışmanlığına kadar geniş ürün yelpazesi",
+      "products": [
+        {
+          "id": "inkjet-kodlama-sistemi",
+          "title": "Endüstriyel Inkjet Kodlama Sistemi",
+          "description": "Yüksek çözünürlüklü endüstriyel inkjet kodlama ve markalama sistemi",
+          "image": "/placeholder.svg?height=400&width=600",
+          "features": ["Yüksek çözünürlüklü baskı", "Dokunmatik kontrol paneli", "Çoklu dil desteği"],
+          "colors": "#dbeafe, #93c5fd, #3b82f6",
+          "gap": "12",
+          "speed": "20"
+        },
+        {
+          "id": "lazer-markalama-sistemi",
+          "title": "Endüstriyel Lazer Markalama Sistemi",
+          "description": "Fiber lazer teknolojisi ile kalıcı ve hassas markalama çözümü",
+          "image": "/placeholder.svg?height=400&width=600",
+          "features": ["Fiber lazer teknolojisi", "Metal ve plastik markalama", "Kalıcı işaretleme"],
+          "colors": "#fee2e2, #fca5a5, #ef4444",
+          "gap": "15",
+          "speed": "35"
+        },
+        {
+          "id": "wrap-around-etiketleme-sistemi",
+          "title": "Wrap Around Etiketleme Sistemi",
+          "description": "Çok fonksiyonlu wrap around etiketleme sistemi ile silindirik ürünlere tam kapsamlı etiketleme",
+          "image": "/placeholder.svg?height=400&width=600",
+          "features": ["Çoklu aplikatör sistemi", "Yüksek hassasiyetli hizalama", "PLC kontrollü otomasyon"],
+          "colors": "#e0e7ff, #a5b4fc, #6366f1",
+          "gap": "13",
+          "speed": "26"
+        }
+      ],
+      "viewAllText": "Tüm Ürünleri Görüntüle",
+      "viewAllLink": "/urunlerimiz",
+      "detailButtonText": "Detaylı İncele"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Yıllık Tecrübe"
+      },
+      {
+        "value": "1000+",
+        "label": "Mutlu Müşteri"
+      },
+      {
+        "value": "24/7",
+        "label": "Teknik Destek"
+      },
+      {
+        "value": "100%",
+        "label": "Müşteri Memnuniyeti"
+      }
+    ],
+    "aboutIntro": {
+      "badge": "Hakkımızda",
+      "title": "15 Yıllık Tecrübe ile Yanınızdayız",
+      "content": "Quick Kodlama Elektronik olarak 15 yılı aşkın süredir endüstriyel kodlama ve markalama sektöründe faaliyet göstermekteyiz. Müşterilerimize en kaliteli ürünleri ve hizmetleri sunarak üretim süreçlerini optimize etmelerine yardımcı oluyoruz.",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/hakkimizda"
+    },
+    "partners": {
+      "title": "İş Ortaklarımız",
+      "subtitle": "Dünya çapında tanınmış markalarla çalışıyoruz",
+      "logos": [
+        {
+          "name": "SATO",
+          "image": "/placeholder.svg?height=80&width=160"
+        },
+        {
+          "name": "ALTECH",
+          "image": "/placeholder.svg?height=80&width=160"
+        },
+        {
+          "name": "KEYENCE",
+          "image": "/placeholder.svg?height=80&width=160"
+        },
+        {
+          "name": "OMRON",
+          "image": "/placeholder.svg?height=80&width=160"
+        },
+        {
+          "name": "COGNEX",
+          "image": "/placeholder.svg?height=80&width=160"
+        }
+      ]
+    },
+    "expertise": {
+      "title": "Uzmanlık Alanlarımız",
+      "subtitle": "Endüstriyel otomasyon ve kodlama çözümlerinde kapsamlı hizmetler",
+      "areas": [
+        {
+          "icon": "Printer",
+          "title": "Kodlama Sistemleri",
+          "description": "İnkjet, lazer ve termal transfer kodlama sistemleri"
+        },
+        {
+          "icon": "Tag",
+          "title": "Etiketleme Çözümleri",
+          "description": "Otomatik etiketleme ve aplikasyon sistemleri"
+        },
+        {
+          "icon": "Bot",
+          "title": "Robotik Otomasyon",
+          "description": "Endüstriyel robot entegrasyonu ve programlama"
+        },
+        {
+          "icon": "Code",
+          "title": "Yazılım Entegrasyonu",
+          "description": "PLC programlama ve SCADA sistemleri"
+        },
+        {
+          "icon": "Wrench",
+          "title": "Teknik Destek",
+          "description": "7/24 teknik destek ve bakım hizmetleri"
+        },
+        {
+          "icon": "GraduationCap",
+          "title": "Eğitim",
+          "description": "Operatör eğitimi ve sistem kullanım danışmanlığı"
+        }
+      ]
     }
   }
 }
