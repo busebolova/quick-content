@@ -1,1 +1,23 @@
-{}
+{
+  "title": "Hakkımızda",
+  "subtitle": "15 Yılı Aşkın Tecrübe ile Endüstriyel Çözümler",
+  "content": "15 yılı aşkın süredir müşterilerimize Endüstriyel Kodlama ve Markalama alanının en kaliteli çözümlerini sunmaktayız. Müşterilerimizin Kodlama ve Markalama, Hat sonu ve yazılım alanındaki çözümlerimizle tüm ihtiyaçlarına cevap verebilmeyi hedefliyoruz.\n\nPortföyümüzde yer alan, mürekkepli sistemler (küçük karakterli inkjet, büyük karakterli [DOD] inkjet, yüksek çözünürlüklü inkjetler), termal transfer yazıcılar, etiket yaz-yapıştır sistemleri, ve lazer markalama uygulamalarındaki farklı ürünler ile müşterilerimize üstün kaliteli çözümler sunmaktayız.\n\nBununla beraber yazılımlı izlenebilirlik projeleri, ilaç takip sistemi ve benzeri uygulamalarla hem hat çözümleri, hem de hat sonu çözümleri ile hizmet vermekteyiz. İkincil bir prosesin müşterilerimizin karmaşık üretim süreçlerini aksatmamasına çok önem veriyoruz.\n\nKendi bünyemizdeki uzman mühendislik, araştırma ve geliştirme, proje ve satış sonrası teknik ekiplerimiz sürekli olarak tedarik ettiğimiz makinelerin kusursuz hizmet etmesi, verimliliklerinin arttırılıp, toplam maliyetlerinin düşürülmesi için çalışmaktadır.\n\nHizmet anlayışımızın sürekliliğini sağlayabilmek için 2010 yılından beri müşteri memnuniyeti odaklı olarak çalışmaktayız. Uzman ekiplerimiz ile 1000'in üzerinde müşterimize güvenle hizmet vermekten gurur duyuyoruz. Saygın ve güvenilir bir firma olmak düsturuyla yıllardır müşterilerimize hizmet vermeye çalışıyoruz. Faaliyetlerimizi hep aynı ciddiyetle sürdürmeyi taahhüt ediyoruz.",
+  "features": [
+    {
+      "title": "Uzman Ekip",
+      "description": "Alanında uzman mühendislik ve teknik destek ekibi"
+    },
+    {
+      "title": "Kaliteli Ürünler",
+      "description": "Dünya standartlarında endüstriyel çözümler"
+    },
+    {
+      "title": "7/24 Destek",
+      "description": "Kesintisiz teknik destek ve servis hizmeti"
+    },
+    {
+      "title": "Müşteri Odaklı",
+      "description": "2010'dan beri müşteri memnuniyeti önceliğimiz"
+    }
+  ]
+}
