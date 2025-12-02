@@ -1,54 +1,16 @@
 {
-  "hero": {
-    "title": "Endüstriyel Kodlama ve Markalama Çözümleri",
-    "subtitle": "15 Yılı Aşkın Tecrübe ile Profesyonel Hizmet",
-    "description": "İnkjet, lazer, etiketleme ve paletleme sistemleri ile üretim hattınızı optimize edin",
-    "buttonText": "Ürünlerimizi İnceleyin",
-    "buttonLink": "/urunlerimiz"
-  },
-  "solutions": {
-    "title": "Çözümlerimiz",
-    "subtitle": "Endüstriyel ihtiyaçlarınız için profesyonel çözümler",
-    "products": [
-      {
-        "id": "inkjet-kodlama",
-        "title": "Endüstriyel Inkjet Kodlama Sistemi",
-        "description": "Yüksek çözünürlüklü endüstriyel inkjet kodlama ve markalama sistemi",
-        "features": ["Yüksek hız ve hassasiyet", "Çoklu dil desteği", "Kolay entegrasyon", "Düşük işletme maliyeti"]
+  "tr": {
+    "heroTitle": "Endüstriyel Kodlama ve Markalama Çözümlerinde Lider",
+    "heroSubtitle": "15 yılı aşkın tecrübemizle, kodlama sistemlerinden robotik otomasyona kadar geniş ürün yelpazesi ile üretim süreçlerinizi optimize ediyoruz",
+    "buttons": {
+      "primary": {
+        "text": "Ürünlerimizi İnceleyin",
+        "link": "/urunlerimiz"
       },
-      {
-        "id": "lazer-markalama",
-        "title": "Endüstriyel Lazer Markalama Sistemi",
-        "description": "Fiber lazer teknolojisi ile kalıcı ve hassas markalama çözümü",
-        "features": ["Kalıcı markalama", "Yüksek hız", "Sıfır bakım maliyeti", "Çevre dostu"]
-      },
-      {
-        "id": "wrap-around-etiketleme",
-        "title": "Wrap Around Etiketleme Sistemi Çözümleri",
-        "description": "360 derece etiket uygulama sistemi ile mükemmel sonuçlar",
-        "features": ["360° etiket sarma", "Yüksek hassasiyet", "Çoklu aplikatör desteği", "PLC kontrollü otomasyon"]
+      "secondary": {
+        "text": "İletişime Geçin",
+        "link": "/iletisim"
       }
-    ]
-  },
-  "stats": {
-    "title": "Rakamlarla Biz",
-    "items": [
-      {
-        "value": "15+",
-        "label": "Yıllık Tecrübe"
-      },
-      {
-        "value": "1000+",
-        "label": "Mutlu Müşteri"
-      },
-      {
-        "value": "24/7",
-        "label": "Teknik Destek"
-      },
-      {
-        "value": "100%",
-        "label": "Müşteri Memnuniyeti"
-      }
-    ]
+    }
   }
 }
