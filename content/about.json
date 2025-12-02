@@ -1,23 +1,58 @@
 {
-  "title": "Hakkımızda",
-  "subtitle": "15 Yılı Aşkın Tecrübe ile Endüstriyel Çözümler",
-  "content": "15 yılı aşkın süredir müşterilerimize Endüstriyel Kodlama ve Markalama alanının en kaliteli çözümlerini sunmaktayız. Müşterilerimizin Kodlama ve Markalama, Hat sonu ve yazılım alanındaki çözümlerimizle tüm ihtiyaçlarına cevap verebilmeyi hedefliyoruz.\n\nPortföyümüzde yer alan, mürekkepli sistemler (küçük karakterli inkjet, büyük karakterli [DOD] inkjet, yüksek çözünürlüklü inkjetler), termal transfer yazıcılar, etiket yaz-yapıştır sistemleri, ve lazer markalama uygulamalarındaki farklı ürünler ile müşterilerimize üstün kaliteli çözümler sunmaktayız.\n\nBununla beraber yazılımlı izlenebilirlik projeleri, ilaç takip sistemi ve benzeri uygulamalarla hem hat çözümleri, hem de hat sonu çözümleri ile hizmet vermekteyiz. İkincil bir prosesin müşterilerimizin karmaşık üretim süreçlerini aksatmamasına çok önem veriyoruz.\n\nKendi bünyemizdeki uzman mühendislik, araştırma ve geliştirme, proje ve satış sonrası teknik ekiplerimiz sürekli olarak tedarik ettiğimiz makinelerin kusursuz hizmet etmesi, verimliliklerinin arttırılıp, toplam maliyetlerinin düşürülmesi için çalışmaktadır.\n\nHizmet anlayışımızın sürekliliğini sağlayabilmek için 2010 yılından beri müşteri memnuniyeti odaklı olarak çalışmaktayız. Uzman ekiplerimiz ile 1000'in üzerinde müşterimize güvenle hizmet vermekten gurur duyuyoruz. Saygın ve güvenilir bir firma olmak düsturuyla yıllardır müşterilerimize hizmet vermeye çalışıyoruz. Faaliyetlerimizi hep aynı ciddiyetle sürdürmeyi taahhüt ediyoruz.",
-  "features": [
-    {
-      "title": "Uzman Ekip",
-      "description": "Alanında uzman mühendislik ve teknik destek ekibi"
-    },
-    {
-      "title": "Kaliteli Ürünler",
-      "description": "Dünya standartlarında endüstriyel çözümler"
-    },
-    {
-      "title": "7/24 Destek",
-      "description": "Kesintisiz teknik destek ve servis hizmeti"
-    },
-    {
-      "title": "Müşteri Odaklı",
-      "description": "2010'dan beri müşteri memnuniyeti önceliğimiz"
-    }
-  ]
+  "tr": {
+    "heroTitle": "Hakkımızda",
+    "heroSubtitle": "15 yılı aşkın süredir endüstriyel kodlama ve markalama çözümlerinde güvenilir iş ortağınız",
+    "stats": [
+      { "value": "15+", "label": "Yıllık Tecrübe" },
+      { "value": "1000+", "label": "Mutlu Müşteri" },
+      { "value": "50+", "label": "Uzman Ekip" },
+      { "value": "24/7", "label": "Teknik Destek" }
+    ],
+    "mainTitle": "Quick Kodlama Elektronik",
+    "paragraphs": [
+      "15 yılı aşkın süredir müşterilerimize Endüstriyel Kodlama ve Markalama alanının en kaliteli çözümlerini sunmaktayız. Müşterilerimizin Kodlama ve Markalama, Hat sonu ve yazılım alanındaki çözümlerimizle tüm ihtiyaçlarına cevap verebilmeyi hedefliyoruz.",
+      "Portföyümüzde yer alan, mürekkepli sistemler (küçük karakterli inkjet, büyük karakterli [DOD] inkjet, yüksek çözünürlüklü inkjetler), termal transfer yazıcılar, etiket yaz-yapıştır sistemleri, ve lazer markalama uygulamalarındaki farklı ürünler ile müşterilerimize üstün kaliteli çözümler sunmaktayız.",
+      "Bununla beraber yazılımlı izlenebilirlik projeleri, ilaç takip sistemi ve benzeri uygulamalarla hem hat çözümleri, hem de hat sonu çözümleri ile hizmet vermekteyiz. İkincil bir prosesin müşterilerimizin karmaşık üretim süreçlerini aksatmamasına çok önem veriyoruz.",
+      "Kendi bünyemizdeki uzman mühendislik, araştırma ve geliştirme, proje ve satış sonrası teknik ekiplerimiz sürekli olarak tedarik ettiğimiz makinelerin kusursuz hizmet etmesi, verimliliklerinin arttırılıp, toplam maliyetlerinin düşürülmesi için çalışmaktadır.",
+      "Hizmet anlayışımızın sürekliliğini sağlayabilmek için 2010 yılından beri müşteri memnuniyeti odaklı olarak çalışmaktayız. Uzman ekiplerimiz ile 1000'in üzerinde müşterimize güvenle hizmet vermekten gurur duyuyoruz."
+    ],
+    "features": [
+      "15 yılı aşkın sektör tecrübesi",
+      "1000+ başarılı proje",
+      "Yerli ve yabancı marka çeşitliliği",
+      "7/24 teknik destek hizmeti",
+      "Profesyonel mühendislik kadrosu",
+      "Satış sonrası bakım ve eğitim"
+    ],
+    "values": [
+      {
+        "icon": "Target",
+        "title": "Müşteri Odaklılık",
+        "description": "Müşterilerimizin ihtiyaçlarını anlamak ve onlara en uygun çözümleri sunmak birinci önceliğimizdir."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Sürekli Gelişim",
+        "description": "Teknolojideki yenilikleri yakından takip eder, kendimizi ve hizmetlerimizi sürekli geliştiririz."
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "İnovasyon",
+        "description": "Yenilikçi çözümler üreterek sektörde fark yaratmayı ve öncü olmayı hedefliyoruz."
+      },
+      {
+        "icon": "Shield",
+        "title": "Güvenilirlik",
+        "description": "Verdiğimiz sözleri tutmak ve uzun vadeli güven ilişkileri kurmak temel değerlerimizdendir."
+      }
+    ],
+    "whyUs": [
+      "Geniş ürün portföyü ve çözüm yelpazesi",
+      "Deneyimli ve uzman teknik ekip",
+      "Hızlı ve güvenilir teknik destek",
+      "Rekabetçi fiyatlandırma",
+      "Kaliteli satış sonrası hizmet",
+      "Esnek ödeme seçenekleri"
+    ]
+  }
 }
